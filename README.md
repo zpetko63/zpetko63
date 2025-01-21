@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello, I'm Zach!
 
-<!--
-**zpetko63/zpetko63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Student at The University of Notre Dame
 
-Here are some ideas to get you started:
+📍 **Notre Dame, IN**  
+📧 **Email:** [zacharypetko@yahoo.com](zacharypetko@yahoo.com)  
+🔗 **LinkedIn:** [zachary-petko](https://www.linkedin.com/in/zachary-petko/)  
+👨‍💻 **GitHub:** [zpetko63](https://github.com/zpetko63)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### About Me 🌐
+
+
+### Tech Toolbox 🛠️
+- **Languages:** Python, SQL, R
+- **Frameworks & Libraries:** 
+- **Tools:** Tableau, Power BI, Git
+- **Specialties:** 
+
+### Education 🎓
+- **Bachelors in Business Analytics and Economics**, University of Notre Dame (2026)
+
+### Certifications 📜
+- Tableau Desktop Specialist Certification
