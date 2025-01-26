@@ -18,8 +18,8 @@
 - **Specialties:** 
 
 ### Education 🎓
-- **Bachelors in Business Analytics and Economics**, University of Notre Dame - Class of 2026 (In progress)
-- **Master’s of Science in Applied and Computational Mathematics and Statistics** University of Notre Dame - Class of 2027 (In progress)
+- **Bachelors of Business Administration: Business Analytics and Economics**, University of Notre Dame - Class of 2026 (In progress)
+- **Master’s of Science: Applied and Computational Mathematics and Statistics** University of Notre Dame - Class of 2027 (In progress)
 
 ### Certifications 📜
 - Tableau Desktop Specialist Certification (2024)
