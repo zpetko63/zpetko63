@@ -23,4 +23,4 @@
 - **Master’s of Science in Applied and Computational Mathematics and Statistics** University of Notre Dame - Class of 2027 (In progress)
 
 ### Certifications 📜
-- Tableau Desktop Specialist Certification
+- Tableau Desktop Specialist Certification (2024)
