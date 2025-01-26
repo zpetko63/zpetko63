@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Zach!
 
-## 🚀 Student at The University of Notre Dame
-
 📍 **Notre Dame, IN**  
 📧 **Email:** [zacharypetko@yahoo.com](zacharypetko@yahoo.com)  
 🔗 **LinkedIn:** [zachary-petko](https://www.linkedin.com/in/zachary-petko/)  
@@ -9,7 +7,8 @@
 
 
 ### About Me 🌐
-- I am a junior interested in Data Science, Financial Forecasting/Modeling, and Sports.
+- I am a junior at The University of Notre Dame
+- Im interested in Data Science, Financial Forecasting/Modeling, and Sports.
 - I am a thrower on the Notre Dame Men's Track and Field Team. I throw Shot Put, Discus, Hammer, and Weight.
 
 ### Tech Toolbox 🛠️
