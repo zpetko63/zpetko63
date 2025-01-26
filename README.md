@@ -14,7 +14,7 @@
 ### Tech Toolbox 🛠️
 - **Languages:** Python, SQL, R
 - **Frameworks & Libraries:** 
-- **Tools:** Tableau, Power BI, Git
+- **Tools:** Tableau, Power BI
 - **Specialties:** 
 
 ### Education 🎓
