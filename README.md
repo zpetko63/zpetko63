@@ -13,9 +13,7 @@
 
 ### Tech Toolbox 🛠️
 - **Languages:** Python, SQL, R
-- **Frameworks & Libraries:** 
 - **Tools:** Tableau, Power BI
-- **Specialties:** 
 
 ### Education 🎓
 - **Bachelors of Business Administration: Business Analytics and Economics**, University of Notre Dame - Class of 2026 (In progress)
@@ -23,3 +21,11 @@
 
 ### Certifications 📜
 - Tableau Desktop Specialist Certification (2024)
+
+### Current Projects
+- Streamlit App
+- TFRRS Track and Field Analysis App
+
+### Goals
+- Get more experience creating polished data science visualizations and presentations
+- Create more projects utilizing data science topics covered in class
