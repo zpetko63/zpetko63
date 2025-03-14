@@ -25,6 +25,7 @@
 ### Current Projects
 - Streamlit App
 - TFRRS Track and Field Analysis App
+- Black-Scholes Model and Options Modeling
 
 ### Goals
 - Get more experience creating polished data science visualizations and presentations
