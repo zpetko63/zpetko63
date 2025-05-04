@@ -23,9 +23,10 @@
 - Tableau Desktop Specialist Certification (2024)
 
 ### Current Projects
-- Streamlit Machine Learning Apps
+- [Streamlit Machine Learning Apps](https://github.com/zpetko63/Petko-Data-Science-Portfolio/tree/main/MLUnsupervisedApp) in my [Data Science Portfolio](https://github.com/zpetko63/Petko-Data-Science-Portfolio)
+- [Black-Scholes Model and Options Modeling](https://github.com/zpetko63/Black-Scholes-Implementation-with-JAX)
+- Benchmarking Large Language Models (LLMs) for code translation and efficacy optimization
 - TFRRS Track and Field Analysis App
-- Black-Scholes Model and Options Modeling
 
 ### Goals
 - Apply my in class learning to out of class projects to my areas of intrest like financial markets and athletics.
