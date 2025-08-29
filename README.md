@@ -7,7 +7,7 @@
 
 
 ### About Me 🌐
-- I am a junior at The University of Notre Dame
+- I am a senior at The University of Notre Dame
 - Im interested in Data Science, Financial Forecasting/Modeling, and Sports.
 - I am a thrower on the Notre Dame Men's Track and Field Team.
 
